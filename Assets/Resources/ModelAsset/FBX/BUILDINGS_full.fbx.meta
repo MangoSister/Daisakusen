@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: e7e30deb8265daf4ab552d2c01b91cef
+timeCreated: 1447691329
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: B_Apartment
+    100002: B_Apartment.001
+    100004: B_Cylineder
+    100006: B_Factory
+    100008: B_GridBank
+    100010: B_House
+    100012: B_Normal
+    100014: //RootNode
+    100016: C_Bus
+    100018: C_small
+    100020: R_Curve
+    100022: R_Intersection
+    100024: R_Null
+    100026: R_Straight
+    100028: R_Triangle
+    400000: B_Apartment
+    400002: B_Apartment.001
+    400004: B_Cylineder
+    400006: B_Factory
+    400008: B_GridBank
+    400010: B_House
+    400012: B_Normal
+    400014: //RootNode
+    400016: C_Bus
+    400018: C_small
+    400020: R_Curve
+    400022: R_Intersection
+    400024: R_Null
+    400026: R_Straight
+    400028: R_Triangle
+    2300000: B_Apartment
+    2300002: B_Apartment.001
+    2300004: B_Cylineder
+    2300006: B_Factory
+    2300008: B_GridBank
+    2300010: B_House
+    2300012: B_Normal
+    2300014: C_Bus
+    2300016: C_small
+    2300018: R_Curve
+    2300020: R_Intersection
+    2300022: R_Null
+    2300024: R_Straight
+    2300026: R_Triangle
+    3300000: B_Apartment
+    3300002: B_Apartment.001
+    3300004: B_Cylineder
+    3300006: B_Factory
+    3300008: B_GridBank
+    3300010: B_House
+    3300012: B_Normal
+    3300014: C_Bus
+    3300016: C_small
+    3300018: R_Curve
+    3300020: R_Intersection
+    3300022: R_Null
+    3300024: R_Straight
+    3300026: R_Triangle
+    4300000: B_Apartment.001
+    4300002: R_Null
+    4300004: B_Apartment
+    4300006: C_Bus
+    4300008: C_small
+    4300010: R_Curve
+    4300012: R_Intersection
+    4300014: R_Triangle
+    4300016: R_Straight
+    4300018: B_House
+    4300020: B_Factory
+    4300022: B_Cylineder
+    4300024: B_GridBank
+    4300026: B_Normal
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 250
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

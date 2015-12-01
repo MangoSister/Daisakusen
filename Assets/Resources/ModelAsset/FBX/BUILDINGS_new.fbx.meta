@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 369d723f708c84c47bbee138960ced6e
+timeCreated: 1448165978
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: B_Antena
+    100002: B_AntenaCluster_A
+    100004: B_Basic_A
+    100006: B_Basic_B
+    100008: B_GridBank
+    100010: B_GridOffice
+    100012: B_Library
+    100014: B_Multiple
+    100016: B_OfficeCluster_A
+    100018: B_OfficeCluster_B
+    100020: //RootNode
+    100022: C_Bus
+    100024: C_small
+    100026: R_Curve
+    100028: R_Intersection
+    100030: R_Null
+    100032: R_Straight
+    100034: R_Triangle
+    400000: B_Antena
+    400002: B_AntenaCluster_A
+    400004: B_Basic_A
+    400006: B_Basic_B
+    400008: B_GridBank
+    400010: B_GridOffice
+    400012: B_Library
+    400014: B_Multiple
+    400016: B_OfficeCluster_A
+    400018: B_OfficeCluster_B
+    400020: //RootNode
+    400022: C_Bus
+    400024: C_small
+    400026: R_Curve
+    400028: R_Intersection
+    400030: R_Null
+    400032: R_Straight
+    400034: R_Triangle
+    2300000: B_Antena
+    2300002: B_AntenaCluster_A
+    2300004: B_Basic_A
+    2300006: B_Basic_B
+    2300008: B_GridBank
+    2300010: B_GridOffice
+    2300012: B_Library
+    2300014: B_Multiple
+    2300016: B_OfficeCluster_A
+    2300018: B_OfficeCluster_B
+    2300020: C_Bus
+    2300022: C_small
+    2300024: R_Curve
+    2300026: R_Intersection
+    2300028: R_Null
+    2300030: R_Straight
+    2300032: R_Triangle
+    3300000: B_Antena
+    3300002: B_AntenaCluster_A
+    3300004: B_Basic_A
+    3300006: B_Basic_B
+    3300008: B_GridBank
+    3300010: B_GridOffice
+    3300012: B_Library
+    3300014: B_Multiple
+    3300016: B_OfficeCluster_A
+    3300018: B_OfficeCluster_B
+    3300020: C_Bus
+    3300022: C_small
+    3300024: R_Curve
+    3300026: R_Intersection
+    3300028: R_Null
+    3300030: R_Straight
+    3300032: R_Triangle
+    4300000: B_AntenaCluster_A
+    4300002: B_OfficeCluster_A
+    4300004: B_OfficeCluster_B
+    4300006: B_Basic_A
+    4300008: B_GridOffice
+    4300010: B_GridBank
+    4300012: B_Basic_B
+    4300014: B_Antena
+    4300016: B_Library
+    4300018: R_Null
+    4300020: C_Bus
+    4300022: C_small
+    4300024: R_Curve
+    4300026: R_Intersection
+    4300028: R_Triangle
+    4300030: R_Straight
+    4300032: B_Multiple
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
